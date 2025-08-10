@@ -1,4 +1,4 @@
-<h2 align="left">olá, meu nome é Caio e desejo ser programador full-stack, atualmente estou focando mais no backend e depois focar no frontend, sou apaionado em tecnologia e na proramação.</h2>
+<h2 align="left">Olá, meu nome é Caio e desejo ser programador full-stack, atualmente estou focando mais no backend e depois focar no frontend, sou apaionado em tecnologia e na proramação.</h2>
 
 ###
 
@@ -10,10 +10,6 @@
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-
-###
-
-###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
