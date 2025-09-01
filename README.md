@@ -1,4 +1,4 @@
-<h2 align="left">Olá, meu nome é Caio e desejo ser programador full-stack, atualmente estou focando mais no back-end e depois irei focar no front-end, sou apaiXonado em tecnologia e em proGramação.</h2>
+<h2 align="left">Olá, meu nome é Caio e desejo ser programador full-stack, atualmente estou focando na área do back-end e depois irei focar no front-end, sou apaixonado em tecnologia e em programação.</h2>
 
 ###
 
