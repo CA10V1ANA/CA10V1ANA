@@ -1,16 +1,14 @@
-# 👋 Olá, eu sou Caio Viana
+# 👋 Olá, eu sou Caio Viana    
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVtbm9xOGp4d3Q0eXo3cTVmcnY1bnN6cGg3M2o3dTV4cHJ6MGFhNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="450"/>
+</div>
 
 Estudante de Engenharia de Software com foco em Desenvolvimento Full Stack, atuando atualmente como Estagiário em Desenvolvimento de Sistemas na RAV Tecnologia.
 
 Tenho experiência prática no desenvolvimento e manutenção de aplicações corporativas utilizando Java, Grails, Oracle e APIs REST, participando da implementação de funcionalidades, correção de bugs, internacionalização de sistemas e integração entre serviços.
 
 Também possuo conhecimentos em React, JavaScript, TypeScript, bancos de dados relacionais, versionamento com Git/GitHub e desenvolvimento de aplicações web modernas.
-
-## 📚 Atualmente Aprendendo
-
-Estou aprofundando meus conhecimentos em Java e Grails, buscando dominar cada vez mais o desenvolvimento de aplicações corporativas robustas e escaláveis.
-
-Paralelamente, continuo evoluindo em React, Spring Boot, Arquitetura de Software, Cloud Computing e Rust, explorando novas tecnologias e boas práticas de desenvolvimento.
 
 ## 💼 Experiência Profissional
 
@@ -21,7 +19,6 @@ Paralelamente, continuo evoluindo em React, Spring Boot, Arquitetura de Software
 - Correção de bugs e melhorias
 - Integração com APIs REST
 - Manipulação de banco de dados Oracle
-- Internacionalização de aplicações (Português, Inglês e Espanhol)
 - Versionamento de código com Git e GitHub
 
 ## 🚀 Main Skills
@@ -36,24 +33,11 @@ Grails • React • Next.js • Spring Boot
 
 ### 🗄️ Banco de Dados
 
-Oracle • MySQL • PostgreSQL • SQLite
-
-### ☁️ DevOps & Infra
-
-Git • GitHub • Linux
+Oracle • MySQL • PostgreSQL
 
 ### 🛠️ Ferramentas
 
-VS Code • Postman • REST API • JWT
-
-## 🏆 Certificações
-
-- Santander 2026 - Rust AI Developer
-- AWS Academy Cloud Foundations
-- Análise de Dados - Coursera
-- React JS + Next.js
-- Java Completo
-- JavaScript e TypeScript
+VS Code • Postman • REST API • JWT • Git • GitHub 
 
 ## 📫 Meios de Contato
 
@@ -65,3 +49,7 @@ vianacaio009@gmail.com
 
 🐙 GitHub  
 https://github.com/CA10V1ANA
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
