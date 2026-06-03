@@ -1,8 +1,6 @@
 # 👋 Olá, eu sou Caio Viana    
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=CA10V1ANA&label=Visualizações&color=0e75b6&style=flat"/>
-</p>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID"/>
 
 Estudante de Engenharia de Software com foco em Desenvolvimento Full Stack, atuando atualmente como Estagiário em Desenvolvimento de Sistemas na RAV Tecnologia.
 
