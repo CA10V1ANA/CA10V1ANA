@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Caio Viana    
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</div>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CA10V1ANA&theme=tokyonight"/>
+</p>
 
 Estudante de Engenharia de Software com foco em Desenvolvimento Full Stack, atuando atualmente como Estagiário em Desenvolvimento de Sistemas na RAV Tecnologia.
 
