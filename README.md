@@ -1,140 +1,52 @@
 <h1 align="center">Olá, eu sou Caio Viana 👋</h1>
 
 <h3 align="center">
-Desenvolvedor de Software | Java | Grails | React
+Software Developer | Java | Grails | React
 </h3>
 
 <p align="center">
-🎓 Estudante de Engenharia de Software <br>
-💼 Estagiário em Desenvolvimento de Sistemas na RAV Tecnologia <br>
-🚀 Apaixonado por tecnologia, desenvolvimento web e resolução de problemas
+💼 RAV Tecnologia <br>
+🎓 Engenharia de Software <br>
+📍 Fortaleza - CE
 </p>
-
----
-
-## 👨‍💻 Sobre Mim
-
-Sou estudante de Engenharia de Software e atualmente atuo como Estagiário em Desenvolvimento de Sistemas na RAV Tecnologia.
-
-Tenho experiência com desenvolvimento e manutenção de aplicações corporativas, trabalhando com Java, Grails, Oracle, APIs REST e Git.
-
-Atualmente participo da manutenção e evolução do sistema Fiber, atuando na implementação de funcionalidades, correção de bugs, internacionalização de aplicações e integração entre sistemas.
-
-Estou sempre buscando aprender novas tecnologias e evoluir profissionalmente como desenvolvedor Full Stack.
 
 ---
 
 ## 🚀 Tecnologias
 
-### Back-end
-
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,python"/>
-</p>
-
-### Front-end
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css"/>
-</p>
-
-### Banco de Dados
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-</p>
-
-### Ferramentas
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,js,ts,php,laravel,mysql,git,github,vscode"/>
 </p>
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Atualmente
 
-### RAV Tecnologia
-
-**Estagiário em Desenvolvimento de Sistemas**
-
-- Desenvolvimento e manutenção de sistemas corporativos
-- Correção de bugs e implementação de melhorias
-- Integração com APIs REST
-- Manipulação de banco de dados Oracle
-- Utilização de Java e Grails
-- Controle de versão com Git e GitHub
-- Internacionalização de funcionalidades em múltiplos idiomas
+- Estagiário em Desenvolvimento de Sistemas na RAV Tecnologia
+- Desenvolvimento e manutenção do sistema Fiber
+- Java, Grails e Oracle
+- APIs REST e Git
 
 ---
 
 ## 📂 Projetos
 
-### 🎓 Sistema de Gestão Escolar
+🎓 Sistema de Gestão Escolar (Grails + React)
 
-Projeto acadêmico desenvolvido utilizando Grails e React.
+👕 Trechos (Website Empresarial)
 
-Funcionalidades:
-
-- Cadastro de Alunos
-- Cadastro de Cursos
-- Matrículas
-- API REST
-- Integração Front-end e Back-end
-
-Tecnologias:
-
-- Grails
-- Groovy
-- React
-- MySQL
-
----
-
-### 👕 Trechos
-
-Website desenvolvido para empresa do segmento de vestuário.
-
-Tecnologias:
-
-- HTML
-- CSS
-- JavaScript
-- PHP
-
----
-
-### 📚 Estudos e Projetos de Programação
-
-Repositórios contendo:
-
-- Java
-- Estrutura de Dados
-- APIs REST
-- React
-- JavaScript
-- TypeScript
-- Rust
+📚 Estudos em Java, React e Rust
 
 ---
 
 ## 🏆 Certificações
 
-🥇 Santander 2026 - Rust AI Developer
-
-☁️ AWS Academy Cloud Foundations
-
-📊 Análise de Dados - Coursera
-
-⚛️ React JS + Next.js
-
-☕ Java Completo
-
-🟨 JavaScript e TypeScript
+- Santander 2026 - Rust AI Developer
+- AWS Academy Cloud Foundations
 
 ---
 
-## 📈 Estatísticas
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -146,35 +58,10 @@ Repositórios contendo:
 
 ---
 
-## 🎯 Objetivos para 2026
-
-- Aprimorar conhecimentos em Java e Grails
-- Evoluir em React e desenvolvimento Full Stack
-- Estudar Arquitetura de Software
-- Aprender Cloud Computing
-- Contribuir para projetos open source
-- Conquistar uma oportunidade como Desenvolvedor Júnior
-
----
-
 ## 📫 Contato
 
-📧 Email: vianacaio009@gmail.com
+📧 vianacaio009@gmail.com
 
-📍 Fortaleza - CE
+💼 LinkedIn
 
-🎓 Engenharia de Software - Centro Universitário Ateneu
-
-🐙 GitHub:
-https://github.com/CA10V1ANA
-
-🐙 Linkedin:
-https://www.linkedin.com/in/caio-viana-898811312
-
----
-
-<div align="center">
-
-⭐ "A tecnologia move o mundo, e o aprendizado constante move a carreira."
-
-</div>
+🐙 github.com/CA10V1ANA
