@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Caio Viana    
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVtbm9xOGp4d3Q0eXo3cTVmcnY1bnN6cGg3M2o3dTV4cHJ6MGFhNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="450"/>
+<<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 </div>
 
 Estudante de Engenharia de Software com foco em Desenvolvimento Full Stack, atuando atualmente como Estagiário em Desenvolvimento de Sistemas na RAV Tecnologia.
@@ -49,7 +49,3 @@ vianacaio009@gmail.com
 
 🐙 GitHub  
 https://github.com/CA10V1ANA
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
