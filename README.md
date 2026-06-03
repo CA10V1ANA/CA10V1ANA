@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Caio Viana    
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="220">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="250">
 </p>
 
 Estudante de Engenharia de Software com foco em Desenvolvimento Full Stack, atuando atualmente como Estagiário em Desenvolvimento de Sistemas na RAV Tecnologia.
