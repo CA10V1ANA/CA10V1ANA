@@ -1,8 +1,10 @@
 # 👋 Olá, eu sou Caio Viana    
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Caio+Viana+👋;Software+Developer;Java+%7C+Grails+%7C+React;Engenharia+de+Software" />
-</h1>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00C7FF&center=true&vCenter=true&random=false&width=700&lines=Caio+Viana;Software+Developer;RAV+Tecnologia;Java+%7C+Grails+%7C+Oracle;React+%7C+TypeScript" />
+
+</div>
 
 Estudante de Engenharia de Software com foco em Desenvolvimento Full Stack, atuando atualmente como Estagiário em Desenvolvimento de Sistemas na RAV Tecnologia.
 
