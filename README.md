@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00C7FF&center=true&vCenter=true&random=false&width=700&lines=Caio+Viana;Software+Developer;RAV+Tecnologia;Java+%7C+Grails+%7C+Oracle;React+%7C+TypeScript" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=35&pause=1200&color=2E9EFF&center=true&vCenter=true&width=800&lines=Caio+Viana;Software+Developer;Estagiário+na+RAV+Tecnologia;Java+%E2%80%A2+Grails+%E2%80%A2+Oracle;React+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript" />
 
 </div>
 
