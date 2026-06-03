@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Caio Viana    
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CA10V1ANA&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=java,react,spring,js,ts,git,github,mysql,postgres,python,vscode" />
 </p>
 
 Estudante de Engenharia de Software com foco em Desenvolvimento Full Stack, atuando atualmente como Estagiário em Desenvolvimento de Sistemas na RAV Tecnologia.
