@@ -1,14 +1,10 @@
-# 👋 Olá, eu sou Caio Viana    
-
 <div align="center">
-  <img alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Caio%20Viana&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
 </div>
 
-Estudante de Engenharia de Software com foco em Desenvolvimento Full Stack, atuando atualmente como Estagiário em Desenvolvimento de Sistemas na RAV Tecnologia.
-
-Tenho experiência prática no desenvolvimento e manutenção de aplicações corporativas utilizando Java, Grails, Oracle e APIs REST, participando da implementação de funcionalidades, correção de bugs, internacionalização de sistemas e integração entre serviços.
-
-Também possuo conhecimentos em React, JavaScript, TypeScript, bancos de dados relacionais, versionamento com Git/GitHub e desenvolvimento de aplicações web modernas.
+Estudante de Engenharia de Software com foco em Desenvolvimento Full Stack, atuando atualmente como Estagiário em Desenvolvimento de Sistemas na RAV Tecnologia. Tenho experiência prática no desenvolvimento e manutenção de aplicações corporativas utilizando Java, Grails, Oracle e APIs REST, participando da implementação de funcionalidades, correção de bugs, internacionalização de sistemas e integração entre serviços. Também possuo conhecimentos em React, JavaScript, TypeScript, bancos de dados relacionais, versionamento com Git/GitHub e desenvolvimento de aplicações web modernas.
 
 ## 💼 Experiência Profissional
 
@@ -49,3 +45,7 @@ vianacaio009@gmail.com
 
 🐙 GitHub  
 https://github.com/CA10V1ANA
+
+<div align="center">
+  <img alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
