@@ -1,142 +1,80 @@
-<div align="center">
+<h1 align="center">Olá, eu sou Caio Viana 👋</h1>
 
-# `andrew.dev()` 👋
+<p align="center">
+  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="100%" alt="Animação em pixel art de uma pessoa programando em uma mesa com computador." />
+</p>
 
-### Desenvolvedor Web Fullstack · foco em backend
+<p align="center">
+  <strong>Interfaces com propósito. Sistemas que resolvem problemas reais.</strong>
+</p>
 
-**Fortaleza, CE** · construindo projetos reais, uma linha por vez.
+<p align="center">
+  <a href="https://www.linkedin.com/in/caio-viana-898811312/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/caioviana.dev/">Instagram profissional</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:caiodeoliveira076@gmail.com">Vamos conversar</a>
+</p>
 
-<br />
+<p align="center">
+  <img src="./assets/hero-integracao.gif" width="100%" alt="DV — DEV VIANA: conexões animadas entre interface, API, dados e projetos. Desenvolvendo soluções." />
+</p>
 
-<img src="./assets/andrew-terminal.svg" alt="Perfil profissional do Andrew em estilo terminal" width="940" />
+---
 
-<br />
-<br />
+### Um pouco sobre mim
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-dev-liart.vercel.app/)
-[![Projeto principal](https://img.shields.io/badge/Crazy_Chicken-em_produção-f97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://crazychicken247.com.br)
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewklayverr)
+Sou **Caio de Oliveira Viana**, de Fortaleza, Ceará. Estudo **Engenharia de Software na UniAteneu** e construo sites e sistemas voltados às necessidades de pessoas e pequenos negócios.
 
-</div>
+Meu foco é evoluir no desenvolvimento **Full Stack**, conectando interfaces em **Angular e React** a APIs com **Java e Spring Boot**, com atenção à experiência do usuário, organização do código e banco de dados.
 
-## `whoami`
+- 💻 Transformo ideias em sites, catálogos e sistemas de gestão.
+- 📚 Aprofundo meus estudos em Java, Spring Boot, PostgreSQL e Docker.
+- 🌱 Também exploro Kotlin e boas práticas de desenvolvimento.
+- 🎯 Gosto de acompanhar o projeto da primeira ideia até a aplicação funcionando.
 
-Comecei a programar pela **Programadores do Amanhã**, em 2022, e desde então venho aprendendo na prática, construindo projetos e me aprofundando cada vez mais em desenvolvimento web — especialmente no backend.
+### Minha caixa de ferramentas
 
-Atualmente curso **Engenharia de Software na UniAteneu** e já tive contato com projetos de empresas reais, trabalhando com código que chega à produção.
+<p>
+  <img src="https://img.shields.io/badge/Java-162338?style=for-the-badge" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-162338?style=for-the-badge&amp;logo=springboot&amp;logoColor=86D8B0" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/TypeScript-162338?style=for-the-badge&amp;logo=typescript&amp;logoColor=6DAAFF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Angular-162338?style=for-the-badge&amp;logo=angular&amp;logoColor=EEE9DF" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-162338?style=for-the-badge&amp;logo=react&amp;logoColor=6DAAFF" alt="React" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-162338?style=for-the-badge&amp;logo=postgresql&amp;logoColor=86D8B0" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-162338?style=for-the-badge&amp;logo=docker&amp;logoColor=6DAAFF" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-162338?style=for-the-badge&amp;logo=git&amp;logoColor=E8C17A" alt="Git" />
+  <img src="https://img.shields.io/badge/Sass-162338?style=for-the-badge&amp;logo=sass&amp;logoColor=B3A0F0" alt="Sass / SCSS" />
+  <img src="https://img.shields.io/badge/Figma-162338?style=for-the-badge&amp;logo=figma&amp;logoColor=EEE9DF" alt="Figma" />
+</p>
 
-## ⭐ Projeto principal · Crazy Chicken
+### Ideias que viraram projetos
 
-### Cardápio online e gestão de restaurante
+| Projeto | O que estou construindo |
+| :--- | :--- |
+| **JS BOY** | Sistema para uma empresa familiar de entregas, com pedidos, múltiplas paradas e comunicação entre clientes, entregadores e proprietário. |
+| **[Sonho de Pudim](https://github.com/CA10V1ANA/sonho-de-pudim)** | Site vitrine para apresentar produtos e a identidade de um negócio de doces. |
+| **Dulce di Naty** | Vitrine digital para apresentar brownies e informações de revenda. |
+| **BRO’S BURGUER** | Cardápio digital e proposta de PDV com foco no uso pelo celular. |
 
-<div align="center">
+<p>
+  <a href="https://github.com/CA10V1ANA?tab=repositories">Explorar meus repositórios →</a>
+</p>
 
-[![Acessar o Crazy Chicken](https://img.shields.io/badge/ACESSAR%20APLICAÇÃO-crazychicken247.com.br-f97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://crazychicken247.com.br)
+### Como eu gosto de construir
 
-</div>
+**Entender o problema → desenhar a experiência → desenvolver → testar → evoluir.**
 
-O **Crazy Chicken** é o projeto mais completo e mais trabalhado que já desenvolvi: uma solução criada **do zero até o deploy** para um **cliente real**, publicada e funcionando em produção.
+Cada projeto é uma oportunidade de aprender e entregar algo útil. Busco unir uma interface clara, regras de negócio bem definidas e uma base que permita continuar evoluindo o sistema.
 
-Mais do que uma tela de cardápio, a aplicação foi pensada como uma ferramenta de operação para o restaurante, com:
+---
 
-- cardápio digital responsivo e pensado primeiro para o celular;
-- cadastro, edição e organização de produtos e categorias;
-- gestão do conteúdo e da identidade visual do restaurante;
-- fluxo de pedidos para clientes sem exigir cadastro no uso comum;
-- integração do pedido com o atendimento do restaurante pelo WhatsApp;
-- painel administrativo para controlar produtos, pedidos e informações exibidas;
-- evolução completa da ideia inicial até uma aplicação publicada e em uso.
+<p align="center">
+  <strong>Tem uma ideia para tirar do papel?</strong><br />
+  <a href="mailto:caiodeoliveira076@gmail.com">Vamos construir a próxima conexão.</a>
+</p>
 
-> **Entrega real:** planejamento → desenvolvimento → regras de negócio → painel de gestão → deploy → aplicação rodando para o cliente.
+<p align="center"><sub>Caio Viana · DEV VIANA · Desenvolvendo soluções</sub></p>
 
-Esse é o projeto que melhor representa meu momento atual: construir uma aplicação fullstack completa, resolver necessidades de um negócio real e colocar o produto para funcionar fora do ambiente de desenvolvimento.
-
-## Por trás da entrega
-
-Em vez de uma estatística genérica, este é o fluxo que melhor representa meu trabalho: transformar uma necessidade real em um produto publicado e usado no dia a dia.
-
-<div align="center">
-
-<img src="./assets/crazychicken-production.svg" alt="Painel visual do processo de desenvolvimento do Crazy Chicken, do planejamento à produção" width="760" />
-
-</div>
-
-## Stack real
-
-As ferramentas que fazem parte do meu caminho hoje:
-
-<div align="center">
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![Vite](https://img.shields.io/badge/Vite-0f172a?style=for-the-badge&logo=vite&logoColor=646cff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0f172a?style=for-the-badge&logo=bootstrap&logoColor=7952b3)
-![Axios](https://img.shields.io/badge/Axios-0f172a?style=for-the-badge&logo=axios&logoColor=5a29e4)
-![Yup](https://img.shields.io/badge/Yup-0f172a?style=for-the-badge&logoColor=ffffff)
-
-### Backend & autenticação
-
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=68a063)
-![Express](https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express&logoColor=ffffff)
-![JWT](https://img.shields.io/badge/JWT-0f172a?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff)
-![Context API](https://img.shields.io/badge/Context_API-0f172a?style=for-the-badge&logo=react&logoColor=61dafb)
-
-### Dados, automação & IA
-
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-0f172a?style=for-the-badge&logo=mongodb&logoColor=47a248)
-![Mongoose](https://img.shields.io/badge/Mongoose-0f172a?style=for-the-badge&logo=mongoose&logoColor=880000)
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776ab)
-![Selenium](https://img.shields.io/badge/Selenium-0f172a?style=for-the-badge&logo=selenium&logoColor=43b02a)
-![Google Gemini](https://img.shields.io/badge/Gemini_Vision-0f172a?style=for-the-badge&logo=googlegemini&logoColor=8e75ff)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-0f172a?style=for-the-badge&logo=cloudinary&logoColor=3448c5)
-
-### Deploy
-
-![Vercel](https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![Render](https://img.shields.io/badge/Render-0f172a?style=for-the-badge&logo=render&logoColor=46e3b7)
-
-</div>
-
-## Outros projetos que já construí
-
-### [Automação de condomínios](https://github.com/andrewklayverr/automacaocond)
-
-Automação voltada para pesquisa, validação e organização de dados, usando **Python**, **Selenium**, planilhas, geração de **PDF** e classificação com **Gemini Vision**.
-
-### [Workout Exercise](https://portfolio-dev-liart.vercel.app/)
-
-Aplicação fullstack para gerenciamento de treinos, com:
-
-- autenticação com **JWT**;
-- API REST em **Node.js + Express**;
-- persistência no **MongoDB Atlas** usando **Mongoose**;
-- frontend em **React** com **Context API**;
-- deploy usando **Vercel** e **Render**.
-
-Código: [github.com/andrewklayverr/workout-exercise](https://github.com/andrewklayverr/workout-exercise)
-
-### [PetLoveQR](https://github.com/andrewklayverr/PetLoveQR)
-
-Aplicação para criar páginas personalizadas de pets com foto, mensagem, música e QR Code. Projeto desenvolvido com **Next.js**, **Express**, **MongoDB** e **Cloudinary**.
-
-### [Portfólio pessoal](https://github.com/andrewklayverr/portfolio-dev)
-
-Meu portfólio publicado, construído com **React**, **Vite** e **Bootstrap**.
-
-### [Sistema de Controle de Produtos](https://github.com/andrewklayverr/Sistema-de-Controle-de-Produtos)
-
-Projeto frontend com **React**, formulários, rotas, **Axios**, validações com **Yup** e operações de CRUD.
-
-## Próximo nível
-
-Ainda sou júnior — e encaro isso como parte do processo. Quero trabalhar em projetos de maior escala, aprofundar meus conhecimentos em arquitetura de sistemas e continuar aprendendo com pessoas mais experientes.
-
-Se você tem um projeto interessante ou uma oportunidade de estágio/júnior, vamos conversar. 🤝
-
-<div align="center">
-
-> *Cada linha de código é uma chance de aprender algo novo.*
-
-</div>
